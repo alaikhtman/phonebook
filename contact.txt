@@ -1,0 +1,15 @@
+Name: alla
+Phone: 12345
+Email: a1
+Name: petr
+Phone: 13214
+Email: p2
+Name: semen
+Phone: 57547
+Email: s5
+Name: taras
+Phone: 24414
+
+Name: sdf
+Phone: sdgs
+Email: sdg
